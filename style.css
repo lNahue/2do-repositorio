@@ -1,0 +1,69 @@
+/*Estilos generales*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+ section {
+    margin-bottom: 30px;
+ }
+
+ footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+ }
+
+ /*Estilos especificos*/
+ h1 {
+    margin: 0;
+ }
+
+ h2 {
+    color: #333;
+ }
+
+ ul {
+    padding-left: 20px;
+ }
+
+ address {
+    font-size: normal;
+ }
+
+ a {
+    color: #007bff;
+    text-decoration: none;
+ }
+
+ a:hover {
+    text-decoration: underline;
+ }
